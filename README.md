@@ -1,9 +1,1 @@
-School Management System The School Management System is a comprehensive solution designed to simplify the day-to-day operations of educational institutions. Developed using Object-Oriented Programming (OOP) principles, this system efficiently manages tasks such as student registration, teacher assignments, course management, and attendance tracking. It offers three distinct user roles—students, teachers, and administrators—each with their own access to specialized functionalities tailored to their needs.
 
-Core Features and Functionalities The Main Menu serves as the entry point for all users, providing options to log in, register a new account, or exit the application. Upon logging in, users are directed to role-specific dashboards.
-
-For students, the system allows easy enrollment in available courses, tracking academic performance, and participating in quizzes. Students can also view and pay fees, mark attendance, and stay informed with announcements. Moreover, students can send messages to teachers and download educational resources, ensuring they have all the tools to succeed.
-
-Teachers have access to features that enable them to assign grades, manage student attendance, and upload educational materials. Teachers can also send important announcements to students and view detailed student records. Additionally, they can view their salary information and respond to messages from students.
-
-The Administrator Menu offers the most extensive functionality. Administrators can add and manage courses, register students, hire teachers, and assign teachers to classes. They can also view comprehensive lists of enrolled students and their respective courses, track attendance records, and manage teacher salaries. This role serves as the backbone of the system, overseeing the smooth operation of all other processes.
