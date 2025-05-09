@@ -1,59 +1,9 @@
-School Management System
-The School Management System is a comprehensive solution designed to streamline the daily operations of educational institutions. Developed using Object-Oriented Programming (OOP) principles, it efficiently handles tasks such as student registration, teacher assignments, course management, and attendance tracking. The system supports three user roles: students, teachers, and administrators, each with access to role-specific functionalities.
+School Management System The School Management System is a comprehensive solution designed to simplify the day-to-day operations of educational institutions. Developed using Object-Oriented Programming (OOP) principles, this system efficiently manages tasks such as student registration, teacher assignments, course management, and attendance tracking. It offers three distinct user roles—students, teachers, and administrators—each with their own access to specialized functionalities tailored to their needs.
 
-Key Features and Functionalities
-Main Menu
-The Main Menu serves as the entry point for all users, providing options to log in, register a new account, or exit the application. Upon logging in, users are directed to role-specific dashboards that offer relevant features.
+Core Features and Functionalities The Main Menu serves as the entry point for all users, providing options to log in, register a new account, or exit the application. Upon logging in, users are directed to role-specific dashboards.
 
-Student Features
-Students can perform the following actions:
+For students, the system allows easy enrollment in available courses, tracking academic performance, and participating in quizzes. Students can also view and pay fees, mark attendance, and stay informed with announcements. Moreover, students can send messages to teachers and download educational resources, ensuring they have all the tools to succeed.
 
-Enroll in available courses
+Teachers have access to features that enable them to assign grades, manage student attendance, and upload educational materials. Teachers can also send important announcements to students and view detailed student records. Additionally, they can view their salary information and respond to messages from students.
 
-Track academic performance and view grades
-
-Participate in quizzes
-
-View and pay fees
-
-Mark attendance
-
-Access announcements
-
-Communicate with teachers through messages
-
-Download educational resources
-
-Teacher Features
-Teachers have access to tools that support classroom management, including:
-
-Assigning and updating student grades
-
-Recording and tracking attendance
-
-Uploading educational materials
-
-Posting announcements
-
-Viewing student records
-
-Checking salary information
-
-Responding to student messages
-
-Administrator Features
-The Administrator Menu provides comprehensive management capabilities, including:
-
-Adding, updating, or removing courses
-
-Registering students and managing profiles
-
-Hiring and assigning teachers to classes
-
-Viewing lists of enrolled students and their courses
-
-Monitoring attendance records
-
-Managing teacher salaries
-
-Overseeing overall system operations
+The Administrator Menu offers the most extensive functionality. Administrators can add and manage courses, register students, hire teachers, and assign teachers to classes. They can also view comprehensive lists of enrolled students and their respective courses, track attendance records, and manage teacher salaries. This role serves as the backbone of the system, overseeing the smooth operation of all other processes.
